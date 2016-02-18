@@ -1,0 +1,23 @@
+.wrapper{
+	width: 1024px;
+	height: 500px;
+	background-color: red;
+	margin: 0 auto;
+}
+
+
+/*
+.box{
+	width: 300px;
+	height: 400px;
+	background-color: yellow;
+	display: inline-block;
+	vertical-align: top;
+}
+.box2{
+	width: 780px;
+	height: 400px;
+	background-color: blue;
+	display: inline-block;
+	vertical-align: top;
+}*/

@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.ui-bar-top{
+	background-color: black;
+	color: #FFF;
+	padding-top:10px;
+	padding-bottom: 10px;
+
+}
+.ui-bar-bottom{
+	background-color: red;
+	color:#FFF;
+	padding: 10px 0px;
+}
+
+.ui-bar-bottom a{
+	color:#FFF;
+
+}
+
+.box-center{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+
+/*** estilos header**/
+
+.ui-redes {
+	display: inline-block;
+	vertical-align: top;
+
+	width: 200px;
+	margin-right: 500px;
+}
+
+.ui-login{
+	display: inline-block;
+	vertical-align: top;
+	
+	width: 310px;
+	
+
+}
+
+.ui-login form{
+	display: inline-block;
+	vertical-align: top;
+}
+.ui-title-site{
+	
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+}
+.ui-nav-site{
+
+	display: inline-block;
+	vertical-align: top;
+	width: 710px;
+	text-align: right;
+
+}
+.ui-nav-site ul li{
+display: inline-block;
+vertical-align: top;
+padding: 5px 10px;
+border-right: 1px solid gray;
+margin-top: 5px;
+font-size: 16px;
+transition:all 0.3s linear;
+}
+.ui-nav-site ul li:hover{
+	font-size: 18px;
+	color:blue;
+	font-weight: bold;
+}
+.ui-nav-site ul .ui-no-border{
+	border-right: 0px solid gray;
+}
+.sec-principal img{
+	width: 100%;
+}
+/** fin de estilos header **/
+
+/** estilos seccion wrapper **/
+.wrapper{
+	width: 1024px;
+
+	
+	margin: 0 auto;
+	margin-top: -50px;
+	position: relative;
+	z-index: 1;
+}
+
+.ui-contenido-site{
+	width: 710px;
+	height: 500px;
+	
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.ui-movie img{
+	border:3px solid white;
+	
+	position: relative;
+	top: -23px;
+	display: inline-block;
+}
+.ui-movie .detail-movie{
+	width: 480px;
+	height: 200px;
+	background-color: white;
+	display: inline-block;
+}
+.ui-lateral-site{
+	width: 300px;
+	height: 500px;
+	
+	display: inline-block;
+	vertical-align: top;
+}
+/** end estilos seccion wrapper **/

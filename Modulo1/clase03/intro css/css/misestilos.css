@@ -1,0 +1,37 @@
+p{
+	
+}
+
+
+
+/* selectores . : son de 3 tipos 
+selector por Tag
+selector por class
+selector por ID
+
+*/
+
+/** para el atributo class : utilizar el nombre de clase y anteponer un ( . );**/
+
+.texto-verde{
+	color:green;
+	font-size: 40px;
+
+}
+
+
+.fuente1{
+
+	font-family: arial;
+}
+
+/** identificador de tipo ID **/
+
+/** para los identificadores de tipo ID debemos de anteponer un ( # ) **/
+
+#parrafo{
+	color: blue;
+	font-size: 15px;
+	
+	
+}
